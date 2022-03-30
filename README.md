@@ -1,2 +1,7 @@
-# Pessoal-projeto-piano
-projeto criando com intuito de que usuário crie seus própios sons através do mause clicando nas teclas na tela.
+"# piano" 
+um projeto onde usuario com mause cria sua propia sinfonia!
+Os som das teclas foi baixado em https://freesound.org/.
+
+
+
+ # Vanessa Borges
